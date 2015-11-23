@@ -1,0 +1,24 @@
+C:\Users\steven\Documents\Visual Studio 2010\Projects\RESTAppNFC\RESTAppNFC\bin\RESTAppNFC.dll
+C:\Users\steven\Documents\Visual Studio 2010\Projects\RESTAppNFC\RESTAppNFC\bin\RESTAppNFC.pdb
+C:\Users\steven\Documents\Visual Studio 2010\Projects\RESTAppNFC\RESTAppNFC\obj\Release\RESTAppNFC.dll
+C:\Users\steven\Documents\Visual Studio 2010\Projects\RESTAppNFC\RESTAppNFC\obj\Release\RESTAppNFC.pdb
+C:\Users\steven\Documents\Visual Studio 2010\Projects\RESTAppNFC\RESTAppNFC\obj\Release\RESTAppNFC.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\NFCAPP\web service\RESTAppNFC\RESTAppNFC\bin\RESTAppNFC.dll.config
+C:\Users\pc\Desktop\NFCAPP\web service\RESTAppNFC\RESTAppNFC\bin\RESTAppNFC.dll
+C:\Users\pc\Desktop\NFCAPP\web service\RESTAppNFC\RESTAppNFC\bin\RESTAppNFC.pdb
+C:\Users\pc\Desktop\NFCAPP\web service\RESTAppNFC\RESTAppNFC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pc\Desktop\NFCAPP\web service\RESTAppNFC\RESTAppNFC\bin\System.Web.Helpers.dll
+C:\Users\pc\Desktop\NFCAPP\web service\RESTAppNFC\RESTAppNFC\bin\System.Web.Mvc.dll
+C:\Users\pc\Desktop\NFCAPP\web service\RESTAppNFC\RESTAppNFC\bin\System.Web.Razor.dll
+C:\Users\pc\Desktop\NFCAPP\web service\RESTAppNFC\RESTAppNFC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\pc\Desktop\NFCAPP\web service\RESTAppNFC\RESTAppNFC\bin\System.Web.WebPages.dll
+C:\Users\pc\Desktop\NFCAPP\web service\RESTAppNFC\RESTAppNFC\bin\System.Web.WebPages.Razor.dll
+C:\Users\pc\Desktop\NFCAPP\web service\RESTAppNFC\RESTAppNFC\bin\System.Web.Helpers.xml
+C:\Users\pc\Desktop\NFCAPP\web service\RESTAppNFC\RESTAppNFC\bin\System.Web.Mvc.xml
+C:\Users\pc\Desktop\NFCAPP\web service\RESTAppNFC\RESTAppNFC\bin\System.Web.Razor.xml
+C:\Users\pc\Desktop\NFCAPP\web service\RESTAppNFC\RESTAppNFC\bin\System.Web.WebPages.xml
+C:\Users\pc\Desktop\NFCAPP\web service\RESTAppNFC\RESTAppNFC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\pc\Desktop\NFCAPP\web service\RESTAppNFC\RESTAppNFC\bin\System.Web.WebPages.Razor.xml
+C:\Users\pc\Desktop\NFCAPP\web service\RESTAppNFC\RESTAppNFC\obj\Release\RESTAppNFC.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\NFCAPP\web service\RESTAppNFC\RESTAppNFC\obj\Release\RESTAppNFC.dll
+C:\Users\pc\Desktop\NFCAPP\web service\RESTAppNFC\RESTAppNFC\obj\Release\RESTAppNFC.pdb
